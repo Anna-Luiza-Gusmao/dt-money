@@ -27,6 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Styled Components
 - Radix UI
 - Axios
+- Zod
 
 
 ## 🎨 Figma
