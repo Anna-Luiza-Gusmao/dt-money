@@ -25,6 +25,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📚 Bibliotecas
 
 - Styled Components
+- Radix UI
+- Axios
+- Zod
 
 
 ## 🎨 Figma

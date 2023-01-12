@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-01-09T17:06:32.895Z"
+    },
+    {
+      "id": 2,
+      "description": "Almoço",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 25,
+      "createdAt": "2023-01-09T17:06:32.895Z"
+    },
+    {
+      "description": "Desenvolvimento de Software",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-01-11T15:48:10.627Z",
+      "id": 3
+    },
+    {
+      "description": "Jantar",
+      "price": 56,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-11T16:06:29.384Z",
+      "id": 4
+    }
+  ]
+}
