@@ -4,7 +4,7 @@
 
 ## 🎉 Let's go!
 
-Para iniciar o projeto insira o comando <code>npm run dev</code>
+Para iniciar o projeto insira o comando <code>npm run dev</code> e para iniciar o Json Server insira <code>npm run dev:server</code>
 
 ## 💻 Projeto
 
